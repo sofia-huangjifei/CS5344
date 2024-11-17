@@ -7,7 +7,7 @@
 (2) Scamdigger: A public scam list reporting individuals flagged as scammers or those who unsuccessfully attempted to register on Datingnmore. It provided a rich dataset of fraudulent profiles, with key features like descriptions and locations meticulously extracted for analysis.
 
 
-# BeautifulSoup Data Collection:
+# BeautifulSoup Data Scraping:
 
 Scamdigger.py: Scrape scammer profiles from Scamdigger.
 
