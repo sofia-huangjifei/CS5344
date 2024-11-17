@@ -1,6 +1,7 @@
 # CS5344
 
 Data collection:
+
 (1) Datingnmore: A legitimate dating site providing authentic user profiles, selected for its focus on genuine matchmaking, ensuring a reliable source for legitimate user data. Data was scraped with care to ensure integrity and compliance with ethical guidelines.
 (2) Scamdigger: A public scam list reporting individuals flagged as scammers or those who unsuccessfully attempted to register on Datingnmore. It provided a rich dataset of fraudulent profiles, with key features like descriptions and locations meticulously extracted for analysis.
 
